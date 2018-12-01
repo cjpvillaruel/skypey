@@ -8,8 +8,10 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-scripts": "1.0.14",
-    "shortid": "^2.2.13",
-    "txtgen": "^2.2.2"
+    "redux": "^4.0.1",
+    "shortid": "^2.2.14",
+    "txtgen": "^2.2.2",
+    "yarn": "^1.12.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -24,6 +26,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "prettier": "^1.14.3"
+    "prettier": "^1.15.3"
   }
 }
